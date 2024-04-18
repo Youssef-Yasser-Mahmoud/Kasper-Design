@@ -177,9 +177,11 @@ nav .icon {
     background-color: transparent;
     bottom: -2px;
 }
+
 header .container nav a:hover::before{
-background-color: var(--color);
+    background-color: var(--color);
 } */
+
 header .container nav a.focus,
 header .container nav a:hover {
     color: var(--color);
@@ -248,7 +250,7 @@ nav i.toggle-menu {
 /* End header */
 /* Start landing */
 .landing {
-    background-image: url(/images/landing.jpg);
+    background-image: url(landing.jpg);
     background-size: cover;
     min-height: 100vh;
     position: relative;
@@ -421,7 +423,7 @@ nav i.toggle-menu {
 /* End service section */
 /* Start Design */
 .design {
-    background-image: url(/images/design-features.jpg);
+    background-image: url(design-features.jpg);
     height: 600px;
     position: relative;
     overflow: hidden;
@@ -699,7 +701,7 @@ nav i.toggle-menu {
 /* End about us  */
 /* Start status */
 .status {
-    background-image: url(/images/stats.png);
+    background-image: url(stats.png);
     padding-top: var(--padding);
     padding-bottom: var(--padding);
     background-size: cover;
@@ -908,7 +910,7 @@ nav i.toggle-menu {
 /* End skils */
 /* Start quote */
 .quote {
-    background-image: url(/images/quote.jpg);
+    background-image: url(quote.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -1046,7 +1048,7 @@ nav i.toggle-menu {
 /* End pricing */
 /* Start subscribe  */
 .subscribe {
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(subscribe.jpg);
     background-size: cover;
     padding: 100px 0px;
 }
@@ -1181,7 +1183,7 @@ nav i.toggle-menu {
 /* End contact us */
 /* Start footer  */
 footer {
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(subscribe.jpg);
     background-size: cover;
     margin-top: 100px;
 }
